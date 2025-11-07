@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFd5zGJGCwOpQ/profile-displaybackgroundimage-shrink_350_1400/B4EZov6f5jGoAY-/0/1761740456790?e=1764201600&v=beta&t=OGQIc2uXGotuSJ-93vYqLuFq5aIoemuBOL5TqE2-pEA">
+
 <h3 align="center">Professional Web Designer & Developer | WordPress Expert | Helping Businesses & Creators Build Beautiful, High-Performance Websites |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarifur&label=Profile%20views&color=0e75b6&style=flat" alt="devarifur" /> </p>
